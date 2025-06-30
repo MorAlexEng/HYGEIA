@@ -53,11 +53,13 @@ pip install 'requirements.txt'
 ---
 ## **Credits**
 - [Scientific Literature](https://www.researchgate.net/publication/306285292_Remote_heart_rate_measurement_using_low-cost_RGB_face_video_A_technical_literature_review) for evaluating the use of rPPG for heart rate estimation in remote health monitoring.
+- [Methodology Framework](https://link.springer.com/article/10.3758/s13428-024-02398-0) for open-source rPPG applications.
 - [Similar project](https://github.com/ganeshkumartk/heartpi) that helped me build my heart rate estimation implementation using rPPG.
+- [Another project](https://github.com/bughht/Realtime-rPPG-Application) that helped me build the heart rate estimation algorithm.
 - [Remote Heart Rate Estimation](https://github.com/yllberisha/Heart-Rate-EVM) using EVM video processing technique developed by MIT.
 - [Age Estimation](https://www.kaggle.com/datasets/alfredhhw/adiencegender) datasest that helped me build my age estimation implementation.
 - [Gender Estimation](https://www.kaggle.com/datasets/jangedoo/utkface-new) dataset that helped me build my gender estimation implementation.
-- [Emotional State Recognition] project that helped me build my emotional state recognition implementation.
+- [Emotional State Recognition](https://github.com/berksudan/Real-time-Emotion-Detection) project that helped me build my emotional state recognition implementation.
 ---
 
 ---
